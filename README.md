@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy MantizA</h1>
+<h1 align="center">Hola 👋, soy Wilmer Susana</h1>
 <h3 align="center">Soy un desarrollador Frontend</h3>
 
 - 🌱 Estoy actualmente aprendiendo **ReactJS, Wordpress**
